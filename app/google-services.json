@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595379155022",
+    "project_id": "nhac-ecb1f",
+    "storage_bucket": "nhac-ecb1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595379155022:android:d25df150ea5d21bb3b931f",
+        "android_client_info": {
+          "package_name": "com.example.spotify_group4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjiKa7_xcENQFj43hO8jI1ofUsxaGpEYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
